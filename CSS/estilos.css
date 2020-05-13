@@ -1,0 +1,32 @@
+body {
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/back_our/20190628/ourmid/pngtree-cute-wind-single-dog-background-material-image_279150.jpg');
+    background-size: auto auto;
+    font-family: Calibri; 
+    height: 100hv;
+  }
+  .menu{
+    background-color: white;
+  }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li{
+    list-style: none;
+  }
+  a {
+    text-decoration:  none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .site-title {
+    color: black;
+    text-align: center;
+    font-style: italic;
+  }
+  .site-subtitle {
+    color: black;
+    text-align: center;
+  }
+  
